@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="facebook_blue">#0929DA</color>
+    <color name="facebook_background_gray">#A59F9F</color>
 </resources>
